@@ -11,11 +11,11 @@ export default function Task() {
     <>
       <div className="tasks">
         <ScrollArea>
-        <Card className="border-card-foreground">
+        <Card className="bg-[#8697c4] border-0 shadow-xl">
           <CardHeader>
             <CardTitle className="flex gap-x-3">
-              <Badge variant="outline">45 mins</Badge>
-              <Badge variant="outline">Ashik Kabeer</Badge>
+              <Badge variant="default" className="bg-[#ffffff] text-black">45 mins</Badge>
+              <Badge variant="outline"  className="bg-[#ffffff] text-black">Ashik Kabeer</Badge>
               
             </CardTitle>
             <p className="font-bold">Love-Kind Meditation</p>
