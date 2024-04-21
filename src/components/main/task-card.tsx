@@ -11,7 +11,7 @@ export default function Task() {
     <>
       <div className="tasks">
         <ScrollArea>
-        <Card className="bg-[#8697c4] border-0 shadow-xl">
+        <Card className="bg-[#] border shadow-xl">
           <CardHeader>
             <CardTitle className="flex gap-x-3">
               <Badge variant="default" className="bg-[#ffffff] text-black">45 mins</Badge>

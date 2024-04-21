@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-    <div className="p-6 bg-[#ede8f5]">
+    <div className="p-6 bg-[#]">
     <Memo />
     </div>
     </>
